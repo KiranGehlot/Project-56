@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#main {
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: black
+}
+
+#h2 {
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    color: black
+}
+
+#lotus{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+#rose{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+#jasmine{
+     font-size: 40px;
+    font-family: cursive;
+}
+
+#sunflower{
+    font-size: 40px;
+    font-family: cursive;
+    
+}
